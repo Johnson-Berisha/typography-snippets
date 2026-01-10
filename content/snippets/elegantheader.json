@@ -4,5 +4,5 @@
   "type": "Header",
   "slug": "elegantHeader",
   "example": "Elegant Header",
-  "code": "```\ntext-shadow: 0 0 10px #ff6f61,\n             0 0 20px #ff6f61;\ncolor: white;\n```"
+  "code": "```\n.code-block::-webkit-scrollbar {\n  height: 6px;\n  width: 6px;\n}\n\n.code-block::-webkit-scrollbar-track {\n  background: transparent;\n}\n\n.code-block::-webkit-scrollbar-thumb {\n  background: #444;\n  border-radius: 10px;\n}\n```"
 }
