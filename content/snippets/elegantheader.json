@@ -4,5 +4,5 @@
   "type": "Header",
   "slug": "elegantHeader",
   "example": "Elegant Header",
-  "code": "```\ntext-shadow: 0 0 10px #ff6f61, 0 0 20px #ff6f61; color: white;\n```"
+  "code": "```\ntext-shadow: 0 0 10px #ff6f61,\n             0 0 20px #ff6f61;\ncolor: white;\n```"
 }
