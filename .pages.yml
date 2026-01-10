@@ -6,7 +6,7 @@ content:
     filename: '{fields.slug}.json'
     type: collection
     path: content/snippets
-    subfolders: false
+    subfolders: true
     view:
       fields: [ title, published ]
     fields:
