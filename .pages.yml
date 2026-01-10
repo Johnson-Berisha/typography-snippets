@@ -17,6 +17,9 @@ content:
       - name: title
         label: Snippet Title
         type: string
+      - name: slug
+        label: Slug
+        type: string
       - name: example
         label: Snippet Example
         type: rich-text
