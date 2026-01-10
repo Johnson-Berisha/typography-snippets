@@ -25,4 +25,4 @@ content:
         type: rich-text
       - name: code
         label: Source Code
-        type: code
+        type: string
