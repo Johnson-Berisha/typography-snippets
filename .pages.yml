@@ -1,1 +1,8 @@
 media: media
+content:
+  - name: snippets
+    label: Snippets
+    format: "json"
+    filename: '{fields.slug}.json'
+    type: collection
+    path: content/snippets
