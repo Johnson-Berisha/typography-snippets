@@ -6,3 +6,4 @@ content:
     filename: '{fields.slug}.json'
     type: collection
     path: content/snippets
+    subfolders: false
