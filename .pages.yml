@@ -8,7 +8,7 @@ content:
     path: content/snippets
     subfolders: false
     view:
-      fields: [ title, published, example, code ]
+      fields: [ title, published ]
     fields:
       - name: published
         label: Published
