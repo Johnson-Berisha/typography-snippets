@@ -17,6 +17,9 @@ content:
       - name: title
         label: Snippet Title
         type: string
+      - name: type
+        label: Snippet Type
+        type: string
       - name: slug
         label: Slug
         type: string
