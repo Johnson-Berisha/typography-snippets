@@ -7,3 +7,18 @@ content:
     type: collection
     path: content/snippets
     subfolders: false
+    
+    fields:
+      - name: published
+        label: Published
+        type: boolean
+        default: true
+      - name: title
+        label: Snippet Title
+        type: string
+      - name: example
+        label: Snippet Example
+        type: rich-text
+      - name: code
+        label: Source Code
+        type: code
