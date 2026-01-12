@@ -28,3 +28,6 @@ content:
       - name: code
         label: Source Code
         type: rich-text
+      - name: id
+        label: ID
+        type: string
