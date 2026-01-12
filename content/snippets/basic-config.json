@@ -4,5 +4,6 @@
   "type": "Config",
   "slug": "basic-config",
   "example": "Basic CSS Config",
-  "code": "```\n:root {\n  --primary: #ff6f61;\n  --primary-dim: rgba(255, 111, 97, 0.15);\n  --primary-hover: #ff5240;\n\n  --bg-body: #0b0d0f;\n  --bg-sidebar: #111316;\n  --bg-card: #181b1f;\n  --bg-input: #0b0d0f;\n\n  --text-main: #ffffff;\n  --text-muted: #8b949e;\n\n  --border: #262a30;\n  --radius: 12px;\n\n  --syntax-prop: #79c0ff;\n  --syntax-val: #a5d6ff;\n  --syntax-punc: #8b949e;\n}\n```"
+  "code": "```\n:root {\n  --primary: #ff6f61;\n  --primary-dim: rgba(255, 111, 97, 0.15);\n  --primary-hover: #ff5240;\n\n  --bg-body: #0b0d0f;\n  --bg-sidebar: #111316;\n  --bg-card: #181b1f;\n  --bg-input: #0b0d0f;\n\n  --text-main: #ffffff;\n  --text-muted: #8b949e;\n\n  --border: #262a30;\n  --radius: 12px;\n\n  --syntax-prop: #79c0ff;\n  --syntax-val: #a5d6ff;\n  --syntax-punc: #8b949e;\n}\n```",
+  "id": "basic-config"
 }
