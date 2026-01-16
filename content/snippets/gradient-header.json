@@ -1,0 +1,9 @@
+{
+  "published": true,
+  "title": "Gradient Header",
+  "type": "Header",
+  "slug": "gradient-header",
+  "example": "Your Header",
+  "code": "```\nh1 {\n  font-weight: bold;\n  background: linear-gradient(90deg, #ff3c00, #ffdd00);\n  -webkit-background-clip: text;\n  color: transparent;\n}\n```",
+  "id": "gradient-header"
+}
