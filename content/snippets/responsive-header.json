@@ -1,0 +1,9 @@
+{
+  "published": true,
+  "title": "Fluid Heading",
+  "type": "Header",
+  "slug": "responsive-header",
+  "example": "Big titles that scale smoothly",
+  "code": "```\nh1 {\n  font-size: clamp(2rem, 5vw, 4rem);\n}\n```",
+  "id": "responsive-header"
+}
