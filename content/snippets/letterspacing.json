@@ -1,0 +1,9 @@
+{
+  "published": true,
+  "title": "Elegant Letter Spacing",
+  "type": "UI",
+  "slug": "letterSpacing",
+  "example": "Clean, premium feel",
+  "code": "```\n.label {\n  letter-spacing: 0.08em;\n  text-transform: uppercase;\n}\n```",
+  "id": "letter-spacing"
+}
