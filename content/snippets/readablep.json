@@ -1,0 +1,9 @@
+{
+  "published": true,
+  "title": "Readable Paragraph",
+  "type": "Body Text",
+  "slug": "readableP",
+  "example": "Easy on the eyes",
+  "code": "```\np {\n  max-width: 65ch;\n  line-height: 1.6;\n}\n```",
+  "id": "readable-p"
+}
