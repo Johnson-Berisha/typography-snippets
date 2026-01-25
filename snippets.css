@@ -6,3 +6,12 @@
   background-clip: text;
   color: transparent;
 }
+
+.card-preview[data-snippet="letter-spacing"] h1 {
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.card-preview[data-snippet="responsive-header"] h1 {
+  font-size: clamp(2rem, 5vw, 4rem);
+}
